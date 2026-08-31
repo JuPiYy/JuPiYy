@@ -23,11 +23,3 @@ A passionate developer from Remagen, Germany.
 **KI & Computer Vision**
 ![YOLO](https://img.shields.io/badge/Ultralytics_YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuPiYy&show_icons=true&theme=dark" alt="Josef's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuPiYy&layout=compact&theme=dark" alt="Top Languages" height="150" />
-</p>
