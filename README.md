@@ -2,8 +2,8 @@
 
 A passionate developer from Remagen, Germany. 
 
-- 🔭 I’m currently working on: **BahnsignalErkennung**
-- 🌱 I’m currently learning: **Ultralytics YOLO**
+- 🔭 I’m currently working on: [![BahnsignalErkennung](https://img.shields.io/badge/BahnsignalErkennung-blue?style=flat&logo=github)](https://github.com/JuPiYy/BahnsignalErkennung)
+- 🌱 I’m currently learning: ![YOLO](https://img.shields.io/badge/Ultralytics_YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 
 ---
 
@@ -12,8 +12,8 @@ A passionate developer from Remagen, Germany.
 **Full-Stack**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
