@@ -3,7 +3,7 @@
 A passionate developer from Remagen, Germany 🇩🇪. 
 
 - 🔭 I’m currently working on: [![BahnsignalErkennung](https://img.shields.io/badge/BahnsignalErkennung-blue?style=flat&logo=github)](https://github.com/JuPiYy/BahnsignalErkennung) [![Inventar](https://img.shields.io/badge/Inventar-blue?style=flat&logo=github)](https://github.com/JuPiYy/Inventar) [![Abfahrtstafel](https://img.shields.io/badge/Abfahrtstafel-blue?style=flat&logo=github)](https://github.com/JuPiYy/Abfahrtstafel) 
-- 🌱 I’m currently learning: ![YOLO](https://img.shields.io/badge/Ultralytics_YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+- 🌱 I’m currently learning: ![YOLO](https://img.shields.io/badge/Ultralytics_YOLO-00FFFF?style=flat&logo=yolo&logoColor=black)
 
 ---
 
